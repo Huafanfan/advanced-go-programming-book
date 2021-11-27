@@ -6,7 +6,9 @@
 
 ----
 
-**蚂蚁金服招聘云原生方向和编程语言方向岗位(杭州/P7)：云原生方向要求熟悉k8s配套工具，如kubectl、kustomize、kubebuilder，operator；编程语言方向要求对语言对语言解释器（如py/js/lua/wasm等）、工具链、配套SDK有一定兴趣和实践经验。欢迎各位同学咨询或推荐（推荐成功独享全额推荐红包）。联系方式 chaishushan@gmail.com, shushan.css@alibaba-inc.com**
+**蚂蚁招聘（联系方式 chaishushan@gmail.com, shushan.css@alibaba-inc.com）：**
+- [PaaS平台开发专家-杭州/上海/成都](https://talent.alibaba.com/off-campus-position/731561)
+- 编程语言方向岗位(杭州/P7)：云原生方向要求熟悉k8s配套工具，如kubectl、kustomize、kubebuilder，operator；编程语言方向要求对语言对语言解释器（如py/js/lua/wasm等）、工具链、配套SDK有一定兴趣和实践经验。
 
 ----
 
@@ -27,7 +29,7 @@
 
 
 
-本书涵盖CGO、Go汇编语言、RPC实现、Web框架实现、分布式系统等高阶主题，针对Go语言有一定经验想深入了解Go语言各种高级用法的开发人员。对于刚学习Go语言的读者，建议先从[《Go语言圣经》](https://github.com/golang-china/gopl-zh)开始系统学习Go语言的基础知识。如果希望深入学习Go语言语法树结构，可以参考[《Go语法树入门——开启自制编程语言和编译器之旅》](https://github.com/chai2010/go-ast-book)。如果希望了解Go2的最新动向，可以参考[《Go2编程指南》](https://github.com/chai2010/go2-book)。
+本书涵盖CGO、Go汇编语言、RPC实现、Web框架实现、分布式系统等高阶主题，针对Go语言有一定经验想深入了解Go语言各种高级用法的开发人员。对于刚学习Go语言的读者，建议先从[《Go语言圣经》](https://github.com/golang-china/gopl-zh)开始系统学习Go语言的基础知识。如果希望深入学习Go语言语法树结构，可以参考[《Go语法树入门——开启自制编程语言和编译器之旅》](https://github.com/chai2010/go-ast-book)。如果希望了解Go2的最新动向，可以参考[《Go2编程指南》](https://github.com/chai2010/go2-book)。如果想从头实现一个玩具Go语言可以参考[《从头实现µGo语言》](https://github.com/chai2010/ugo-compiler-book)。
 
 ![](cover-20190714.jpg)
 
